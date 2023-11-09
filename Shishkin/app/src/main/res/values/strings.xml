@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidExample1Shishkin</string>
+    <string name="text_name">Имя:</string>
+    <string name="text_name2">Возраст</string>
+    <string name="text_name3">Специализация</string>
+    <string name="text_name5">Проект</string>
+    <string name="text_name6">Достижение</string>
+    <string name="bntSub_name">Перейти обратно</string>
+    <string name="btnedit2">Решить пример</string>
+
+</resources>
+
